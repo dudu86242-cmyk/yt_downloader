@@ -2,12 +2,19 @@
   "background_color": "#ffffff",
   "dir": "ltr",
   "display": "standalone",
-  "name": "YTDownloder",
+  "name": "YTDownloader",
   "orientation": "any",
   "scope": "/",
-  "short_name": "DOWNLODER",
+  "short_name": "DOWNLOADER",
   "start_url": "/",
   "theme_color": "#ffffff",
-  "id": "YTDownloder",
-  "description": "YouTube video Downloder"
+  "id": "YTDownloader",
+  "description": "YouTube video Downloader",
+  "icons": [
+    {
+      "src": "https://ytdownloader-kdpfw9awnygnsnf9b6i5kh.streamlit.app/launchericon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
